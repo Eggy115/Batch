@@ -1,1 +1,1 @@
-start
+start /max cmd.exe
