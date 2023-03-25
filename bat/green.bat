@@ -1,0 +1,2 @@
+netsh advfirewall firewall add rule name="BlueStacksWeb" dir=in action=allow program="%~dp0BlueStacksWeb.exe"
+netsh advfirewall firewall add rule name="Cloud Game" dir=in action=allow program="%~dp0Cloud Game.exe"
