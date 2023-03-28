@@ -4,20 +4,20 @@ This repository contains a collection of batch scripts that demonstrate various 
 
 ## Usage
 
-To use any of the scripts in this repository, simply download or clone the repository to your local machine. You can then run the scripts directly from the command prompt by navigating to the script location and entering the script name.
+To use any of the scripts in this repository, simply download or clone the repository to your local machine. You can then run the scripts directly from the command prompt by navigating to the script location and entering the script name. They can also be run using `call`, or by executing them as `.bat` or `.cmd`.
 
 ## Structure
 
 The repository contains the following files:
 
-├── .github/
-│ └── boring_github_files
-├── cmd/
-│ └── lots_of_files.cmd
-├── bat/
-│ └── lots_of_files.bat
-├── boring_github_files
-└── batch_examples.bat
+├── .github/       
+│ └── boring_github_files       
+├── cmd/         
+│ └── lots_of_files.cmd     
+├── bat/      
+│ └── lots_of_files.bat      
+├── boring_github_files     
+└── batch_examples.bat     
 
 Each file contains a different example of batch script code:
 
