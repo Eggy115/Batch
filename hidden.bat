@@ -1,0 +1,1 @@
+copy /b img.jpg + logo.zip
