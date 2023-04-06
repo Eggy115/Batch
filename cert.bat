@@ -1,0 +1,1 @@
+"\\corp.local\tbdivdfs1\TB-DIV\Installs\Avaya QM\QM Supervisor\JRE\ImportCaCertToJREandWindowsCertStores.cmd" "c:\program files (x86)\java\jre1.6.0_31" "c:\cert\cacert.pem"

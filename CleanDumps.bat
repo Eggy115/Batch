@@ -1,0 +1,1 @@
+psexec \\%1 -u corp\jlprice del C:\WINDOWS\pchealth\ERRORREP\UserDumps\*.* /y
